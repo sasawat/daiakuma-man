@@ -1,0 +1,3 @@
+#compdef satanman
+
+compdef satanman=man
