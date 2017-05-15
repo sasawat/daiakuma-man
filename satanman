@@ -1,0 +1,3 @@
+#!/bin/bash
+
+man $1 | sed s/daemon/DAIAKUMA!!!/gI | less
